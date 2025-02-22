@@ -32,12 +32,12 @@ function App() {
 
       {/* getting user data in the list */}
 
-      <ul>
+      {/* <ul>
       {users.slice(0,3).map((list) => (
   <li key={list.id}>{list.name}</li>
 ))}
 
-      </ul>
+      </ul> */}
       
     </>
   )
